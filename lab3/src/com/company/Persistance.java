@@ -15,7 +15,6 @@ public class Persistance {
             FileOutputStream fos = new FileOutputStream(SAVE_PATH);
             ObjectOutputStream oos = new ObjectOutputStream(fos);
             oos.writeObject(obj);
-            oos.flush();
             oos.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
