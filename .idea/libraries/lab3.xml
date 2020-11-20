@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lab3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab3/org.apache.commons.io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab3/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab3/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
